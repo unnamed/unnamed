@@ -16,6 +16,9 @@ suffix.
 ### Build
 
 - **Gradle over Maven:** Always prefer [Gradle](https://gradle.org/) over [Maven](https://maven.apache.org/).
+- **Group ID:** Group ID must always be `team.unnamed`.
+- **Artifact ID:** Artifact ID can only contain characters in the `[a-z0-9_-]` range.
+- **Version:** Version must follow the [Semantic Versioning](https://semver.org/) specification.
 
 ### Structure
 
