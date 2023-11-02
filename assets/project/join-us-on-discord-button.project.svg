@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="152"
+   height="43"
+   viewBox="0 0 152 43"
+   version="1.1"
+   id="svg1965"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="join-us-on-discord-button.project.svg"
+   inkscape:export-filename="..\png\join-us-on-discord-button-152x43.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1967"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="4.2179991"
+     inkscape:cx="66.026567"
+     inkscape:cy="37.458519"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1962">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6803">
+      <stop
+         style="stop-color:#5865f2;stop-opacity:1;"
+         offset="0.29058117"
+         id="stop6801" />
+      <stop
+         style="stop-color:#ff8df8;stop-opacity:1;"
+         offset="1"
+         id="stop6807" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2525"
+       x="-0.029485715"
+       y="-0.129"
+       width="1.0589714"
+       height="1.258">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.72"
+         id="feGaussianBlur2527" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6803"
+       id="linearGradient6805"
+       x1="-42.99165"
+       y1="52.347897"
+       x2="186.33188"
+       y2="-6.9137378"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,0.5)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#1c0f1b;fill-opacity:0.6;stroke-width:1.64469;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;filter:url(#filter2525)"
+       id="rect2138"
+       width="140"
+       height="32"
+       x="6.0000019"
+       y="5.4999995"
+       inkscape:label="shadow"
+       rx="16"
+       ry="16"
+       sodipodi:insensitive="true" />
+    <rect
+       style="fill:url(#linearGradient6805);fill-opacity:1;stroke-width:1.64469;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
+       id="rect2138-2"
+       width="140"
+       height="32"
+       x="6"
+       y="5.5"
+       rx="16"
+       ry="16"
+       sodipodi:insensitive="true"
+       inkscape:label="background" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:18.6667px;font-family:Rubik;-inkscape-font-specification:'Rubik Light';fill:#1c0f1b;fill-opacity:0.6;stroke-width:1.27002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
+       x="42.93195"
+       y="28.108011"
+       id="text5586"
+       inkscape:label="text"><tspan
+         sodipodi:role="line"
+         x="42.93195"
+         y="28.108011"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff;fill-opacity:0.9;stroke:none;stroke-width:1.27002;stroke-opacity:1"
+         id="tspan10441">Discord</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64mm"
+   height="64mm"
+   viewBox="0 0 64.000002 64.000002"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="bot.project.svg"
+   inkscape:export-filename="./bot.png"
+   inkscape:export-xdpi="1536.0001"
+   inkscape:export-ydpi="1536.0001"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     units="mm"
+     inkscape:zoom="2.0062009"
+     inkscape:cx="122.3706"
+     inkscape:cy="136.82578"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     width="64mm" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ff8df8;fill-opacity:1;stroke-width:0.994559;stroke-linecap:round;stroke-opacity:0.976853;paint-order:markers stroke fill"
+       id="path1077"
+       cx="32"
+       cy="32"
+       inkscape:export-filename="./bot.png"
+       inkscape:export-xdpi="1536.0001"
+       inkscape:export-ydpi="1536.0001"
+       r="32" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.197358;stroke-linecap:round;stroke-opacity:0.976853;paint-order:markers stroke fill"
+       id="path1077-6"
+       inkscape:export-filename="./bot.png"
+       inkscape:export-xdpi="1536.0001"
+       inkscape:export-ydpi="1536.0001"
+       d="M 8,32 A 24,24 0 0 1 32,8 24,24 0 0 1 56,32 H 32 Z"
+       sodipodi:type="arc"
+       sodipodi:arc-type="slice"
+       sodipodi:start="3.1415927"
+       sodipodi:end="0"
+       sodipodi:ry="24"
+       sodipodi:rx="24"
+       sodipodi:cy="32"
+       sodipodi:cx="32" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:0.971196;stroke:none;stroke-width:2.17092;stroke-linecap:round;stroke-opacity:0.976853;paint-order:markers stroke fill"
+       id="path7524"
+       cx="15.999998"
+       cy="32"
+       r="7.999999" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:0.952896;stroke:none;stroke-width:2.17092;stroke-linecap:round;stroke-opacity:0.976853;paint-order:markers stroke fill"
+       id="path7524-9"
+       cx="48"
+       cy="32"
+       r="7.999999" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.999998,39.999997 H 48.000003 L 44,31.000001 H 20 Z"
+       id="path8100" />
+    <ellipse
+       style="fill:#ff8df8;fill-opacity:1;stroke-width:0.131862;stroke-linecap:round;stroke-opacity:0.976853;paint-order:markers stroke fill"
+       id="path1077-7-5"
+       cx="44"
+       cy="26.500002"
+       inkscape:export-filename="./bot.png"
+       inkscape:export-xdpi="1536.0001"
+       inkscape:export-ydpi="1536.0001"
+       rx="4"
+       ry="4.5" />
+    <ellipse
+       style="fill:#ff8df8;fill-opacity:1;stroke-width:0.131862;stroke-linecap:round;stroke-opacity:0.976853;paint-order:markers stroke fill"
+       id="path1077-7"
+       cx="20"
+       cy="26.500002"
+       inkscape:export-filename="./bot.png"
+       inkscape:export-xdpi="1536.0001"
+       inkscape:export-ydpi="1536.0001"
+       rx="4"
+       ry="4.5" />
+  </g>
+</svg>

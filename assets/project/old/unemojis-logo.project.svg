@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256mm"
+   height="256mm"
+   viewBox="0 0 255.99999 255.99999"
+   version="1.1"
+   id="svg1110"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="unemojis-logo.project.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1112"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.25077511"
+     inkscape:cx="309.04183"
+     inkscape:cy="939.0884"
+     inkscape:window-width="1600"
+     inkscape:window-height="868"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1107">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1573"
+       id="linearGradient1139"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1548628,0,0,1.1548628,5.9753718,7.276629)"
+       x1="-13.123319"
+       y1="206.32973"
+       x2="235.15292"
+       y2="-1.1548289" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1573">
+      <stop
+         style="stop-color:#ff8df5;stop-opacity:1;"
+         offset="0"
+         id="stop1569" />
+      <stop
+         style="stop-color:#ef5ee3;stop-opacity:1"
+         offset="1"
+         id="stop1571" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3812"
+       x="-0.10687562"
+       y="-0.1140148"
+       width="1.2137499"
+       height="1.2278917">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.1271033"
+         id="feGaussianBlur3814" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter3599"
+       x="-0.14330974"
+       y="-0.14330974"
+       width="1.2866195"
+       height="1.2866195">
+      <feFlood
+         flood-opacity="0.827451"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3589" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3591" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur3593" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset3595" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3597" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter3059"
+       x="-0.23389231"
+       y="-0.23389231"
+       width="1.4677846"
+       height="1.4677846">
+      <feFlood
+         flood-opacity="0.827451"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3049" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3051" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="9.41298"
+         result="blur"
+         id="feGaussianBlur3053" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset3055" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3057" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="display:inline;fill:url(#linearGradient1139);fill-opacity:1;stroke:none;stroke-width:3.46458;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1560-9-7"
+       width="256"
+       height="256"
+       x="0"
+       y="0"
+       inkscape:export-xdpi="120.95238"
+       inkscape:export-ydpi="120.95238"
+       inkscape:export-filename="/home/nd/Desktop/emojis-logo.png" />
+    <a
+       id="a1517-82-5"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.522287;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(5.699011,0,0,5.699011,-266.26299,-200.06574)"
+       inkscape:export-xdpi="120.95238"
+       inkscape:export-ydpi="120.95238">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.522287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3812)"
+         d="m 56.567535,45.665382 c -0.362607,0 -0.630292,0.245977 -0.630292,0.669023 v 23.403478 c 0,0.52402 0.160539,0.778213 0.749736,0.778213 h 0.539175 c 0.597619,0 0.793967,-0.215936 0.793967,-0.732657 l 1.24e-4,-8.69788 c 2.752719,4.004638 8.568851,3.419657 10.77733,0.0392 v 1.631084 c 0,0.350386 0.190648,0.71412 0.64349,0.727318 h 0.786309 c 0.423242,0 0.656812,-0.34225 0.656806,-0.726792 l -1.48e-4,-9.579028 c -0.160503,-3.631566 2.403286,-6.047639 5.476119,-5.966156 3.072833,0.08148 5.258885,1.740647 5.223204,5.931241 v 11.82475 c 0,3.037684 -0.430053,4.044367 -2.792274,4.251392 -0.67004,0.05446 -1.163448,0.375721 -1.161259,0.992814 0.0022,0.617093 0.164622,1.029377 0.844371,1.022737 2.239349,-0.05209 2.92355,-0.357969 3.915391,-1.420277 1.106819,-1.185455 1.299759,-2.28204 1.299759,-4.315616 v -12.3558 c 0.06068,-3.942976 -1.630464,-6.73772 -4.723528,-7.64509 -3.093064,-0.90737 -6.605392,0.253135 -8.081864,2.460778 l -2.7e-5,-1.67761 c 0,-0.389074 -0.226897,-0.613802 -0.570462,-0.613802 h -0.909358 c -0.348496,0 -0.590729,0.237552 -0.590729,0.630375 v 9.295875 c 0,4.877066 -3.286818,6.259015 -5.228339,6.259015 -1.941521,0 -5.564737,-1.09763 -5.564737,-6.385042 l 1.59e-4,-9.135681 c 0,-0.474465 -0.202029,-0.665861 -0.634109,-0.665861 z"
+         id="path1293-5-6"
+         sodipodi:nodetypes="ccccccccccccczccczcscczcccccczcccc"
+         inkscape:export-filename="/home/nd/Desktop/emojis-logo.png"
+         inkscape:export-xdpi="120.95238"
+         inkscape:export-ydpi="120.95238" />
+    </a>
+    <image
+       width="100.48166"
+       height="100.48166"
+       preserveAspectRatio="none"
+       style="display:inline;filter:url(#filter3599);image-rendering:pixelated"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAABQElEQVQokZWSP0tCURiHn3O9VzHw CpeCEkIINz+CfoGWpobcnOorSGNDOLg25CQ4FG21tDi0SJvg1KAE4RAXRbtCDl7vfRvMP9dE7Jle OOc57/s756hMWucXYTsUwMySSiG0lZUvegIolUnrUimESB1OcA5uN0rxzwvaHZ180UNbXdgkLTMP OPrWSeZc4Jzukwps2juZxv+4MxaiPfCBEMmcy1t1mtM8nvB+Pz3z6GxR75+OaZTD2AN/0fH1xmA3 PgFg+KwBfqDuORqNcvjvqAA9JxB5M6mEJq1qROQlJLGokmajLqs0G3WJRZV0Hw1pVSOSSmgy79ju 6FjmmGwmu7aBZcLXcDGRBmA7Hv2RUCuFscz1Uq0Upj8SbMcLZnRdH9uBhysDayf4HMvCDJVKaABS udzuYvLXPoCaifDPT/4DzBOFVxK9JlQAAAAASUVORK5CYII= "
+       id="image1324"
+       x="757.1734"
+       y="651.68054"
+       transform="matrix(1.1099489,0.31893818,-0.31893818,1.1099489,-510.56471,-890.23513)"
+       inkscape:export-filename="/home/nd/Desktop/emojis-logo.png"
+       inkscape:export-xdpi="120.95238"
+       inkscape:export-ydpi="120.95238" />
+    <image
+       width="96.587837"
+       height="96.587837"
+       preserveAspectRatio="none"
+       style="display:inline;filter:url(#filter3059);image-rendering:pixelated"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAABSklEQVQokZWSwUoCQRjHfzNuhIba IQ8ZXtSTXroEgQ8QXjx79BJ17RLiA4T0BHnz2BtIz9BdCLTLErEg1K44S7jOdFi1XRGxP8xl5vsN 3/zmE7WqxTKG/SIAVpTptxN7Ua3uwgBC1KqW6bcTlAsB7mlvJ5T9vGFkW7S6C+TmwS4omvUD1cwi dRRQOL/GG8TuI1PXeAOJmq3Lkc6XDsFAk2sY3p8tcg3DxJVMXBnbU0FY63xpRDkvzeDiFoBkpcTZ 1f3WVj9eHvGHYwDqr09/rSYrJfzhmMml3Ar6w/G6BgjlRDeKzYCTrI6tYjOIwWs5fqUDFSgXArw7 SaauOTwQAPzMzVJWj5Ft4UetOu6CdCqU8e1JvEEQaVIwsi2OMxo1N0yVjn/HVGneFKRTodFo1Nzg 2IboVIpyXgKYfme7lM20HjSAWIHwzyH/BXs5iw9EFkbFAAAAAElFTkSuQmCC "
+       id="image1336"
+       x="341.91586"
+       y="882.44312"
+       transform="matrix(1.1417004,-0.1738631,0.1738631,1.1417004,-510.56471,-890.23513)"
+       inkscape:export-filename="/home/nd/Desktop/emojis-logo.png"
+       inkscape:export-xdpi="120.95238"
+       inkscape:export-ydpi="120.95238" />
+  </g>
+</svg>
